@@ -1,0 +1,15 @@
+{
+  "name": "best-time-to-buy",
+  "version": "1.0.0",
+  "description": "You are given an array prices where prices[i] is the price of a given stock on the ith day.",
+  "main": "bestTime.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
