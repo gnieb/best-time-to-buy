@@ -21,6 +21,10 @@ if (require.main == module) {
 
     console.log("Expecting: 6")
     console.log("=>", bestTimeForStock([3,4,2,1,7]))
+
+    // ADD MORE TESTS HERE //
+
+
 }
 
 module.exports = bestTimeForStock;
